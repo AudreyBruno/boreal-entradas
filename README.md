@@ -1,6 +1,4 @@
-# Boreal Entradas
-
-# Ainda em desenvolvimento
+# Boreal Entradas - Ainda em desenvolvimento
 
 **Boreal Entradas** é um aplicativo desenvolvido para registrar o número e o valor das entradas vendidas em eventos realizados pela Boreal. O app permite que o usuário registre a quantidade de entradas masculinas ou femininas vendidas, assim como a forma de pagamento utilizada (débito, crédito, pix ou dinheiro). O valor arrecadado é calculado automaticamente, já descontando as taxas de cartão de crédito ou débito.
 
